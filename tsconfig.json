@@ -5,6 +5,7 @@
       "es2021",
       "DOM"
     ],
+    "outDir": "./dist"
   },
   "include": [
     "src/**/*"
