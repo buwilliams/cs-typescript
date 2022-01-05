@@ -4,7 +4,7 @@ This repository is an ongoing project as I rehearse known skills and add new ski
 
 ## Table of Contents
 
-1. Concepts
+1. Computer Science Concepts
     1. Algorithm
     2. Big O
     3. Recursion (and tail recursion)
